@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+:root{
+    font-family: "Open Sans", sans-serif;
+}
+
+body{
+    background-color: #F5F4F0;
+}
+
+#page{
+    box-sizing: border-box;
+    margin: 88px auto 137px;
+    width: 1120px;
+}
+
+h1{
+    size: 36px;
+}
+
+img{
+    border-radius: 28px;
+}
+
+h2{
+    size: 32px;
+}
+
+h3{
+    size: 28px;
+}
+
+h4{
+    size: 16px;
+}
